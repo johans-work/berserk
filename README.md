@@ -8,7 +8,7 @@ So if anything, bererk will save you a lot of time. Skip ahead in your journey o
 
 # some history
 
-My split journey started with the ZSA Voyager. 
+My split journey started with the ZSA Voyager. The column staggared layout was not that big of an adjustment, but figuring out the layers was. Where do you even start when anything is possible?
 
-The column staggared layout was not that big of an adjustment, but figuring out the layers was.
+
 
