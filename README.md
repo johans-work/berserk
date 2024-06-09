@@ -1,11 +1,14 @@
 # Intro
-Berserk is a keyboard layout optimized for the mouse and minimum finger travel, compatible with virtually any keyboard. Berserk isn't so much original as it's inevitable for anyone with similar requirements. Save time by starting with many of the answers first. 
+Berserk is a keyboard layout optimized for the mouse and minimum finger travel, compatible with virtually any keyboard. Berserk isn't so much original as it's inevitable for anyone with similar requirements. Save time by starting with many of the answers first.
 
-# Reasoning
+# The Answers
 
-- [x] To eliminate the number row at 2u distance from homerow, a number layer is added.
+- [x] The number row at 2u distance should be eliminated.
+- [ ] Layer 1 is added for numbers.
+- [ ] A numpad layout is added to the left hand side so all numbers can be used while using the mouse, as well as being accessible by one dedicated hand.
+- [ ] 
 
-- [x] To eliminate the arrows, a navigation layer is added.
+- [x] Arrows, a navigation layer is added.
 
 
 
