@@ -1,9 +1,7 @@
 # Intro
-Berserk is a keyboard layout template optimized for 1u maximum travel distance and mouse use compatible with virtually any keyboard of any shape or size.
+Berserk is a keyboard layout template optimized for minimum finger movement and mouse use, compatible with virtually any keyboard. Berserk isn't so much original as it's inevitable for anyone with similar requirements. 
 
-Berserk isn't so much original as it is inevitable for anyone (like me) who uses the mouse a lot, wants to maximize left hand usefulness, and owns a lot of keyboards (or soon to own a lot of keyboards). Add to this the ergonomic benefits of minimal finger travel and splitness, modern keyboard features, and constraints imposed by pre-existing conditions, and, I promise, you'll end up with something similar to berserk.
-
-So if anything, bererk is just here to save you time. Start from the end, where someone left off, with most of the basic design decisions laid out for you to understand and choose from.
+If anything, bererk will save you time. Start from the end, where someone left off, with most of the basic design decisions laid out for you to understand and choose from.
 
 
 # Some History
