@@ -3,7 +3,7 @@ Berserk is a keyboard layout optimized for the mouse and minimum finger travel, 
 
 # Primary Motives
 
-- [x] 
+- [x] 1
 
 - [x] 2
 
