@@ -1,5 +1,5 @@
 # Intro
-Berserk is a keyboard layout template optimized for the mouse and minimum finger travel, compatible with virtually any keyboard. Berserk isn't so much original as it's inevitable for anyone with similar requirements. Save time by starting with many of the answers first. 
+Berserk is a keyboard layout optimized for the mouse and minimum finger travel, compatible with virtually any keyboard. Berserk isn't so much original as it's inevitable for anyone with similar requirements. Save time by starting with many of the answers first. 
 
 # Design Parameters
 
