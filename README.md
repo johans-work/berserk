@@ -1,4 +1,4 @@
-# intro
+# Intro
 Berserk is a keyboard layout template optimized for 1u maximum travel distance and mouse use compatible with virtually any keyboard of any shape or size.
 
 Berserk isn't so much original as it is inevitable for anyone (like me) who uses the mouse a lot, wants to maximize left hand usefulness, and owns a lot of keyboards (or soon to own a lot of keyboards). Add to this the ergonomic benefits of minimal finger travel and splitness, modern keyboard features, and constraints imposed by pre-existing conditions, and, I promise, you'll end up with something similar to berserk.
@@ -6,7 +6,7 @@ Berserk isn't so much original as it is inevitable for anyone (like me) who uses
 So if anything, bererk is just here to save you time. Start from the end, where someone left off, with most of the basic design decisions laid out for you to understand and choose from.
 
 
-# some history
+# Some History
 
 I started with the ZSA Voyager, and though the column staggered keys were not that big of an adjustment, figuring out the layers was. What do you even do with 4 thumb keys and 10 layers?
 
@@ -19,7 +19,7 @@ But don't damn your freedom. It's what ensures you'll get to a better place.
 
 
 
-# a few misconceptions
+# A Few Misconceptions
 
 ### 1. "Smaller keyboards have less keys."
 
