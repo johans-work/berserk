@@ -29,9 +29,13 @@ Physical keys, yes, but every new layer multplies the physical key count. So a 4
 
 Shift is a layer, as is ctrl alt and the rest of the mod keys. They give you access to another version of each key. What's difficult is figuring out what to put on new layers, and how to trigger them. Choice is what's hard.
 
-### 3. "QWERTY sucks, I also need to learn a new layout."
+### 3. "QWERTY sucks, I also should learn a new layout."
 
-Yes, QWERTY is not the most energy efficient when considering key usage and travel distance. However, the verdict is in. The upside to learning a completely new layout is 
+Yes, QWERTY is not the most efficient when considering key usage and travel distance. However, most of your wrist twisting and bad posture are not the result of how your alpha keys are laid out, which are all 1u distance from the homerow. 
+
+And the results of the clinical trials conducted by "the internet" are fairly unanomous. After months of productivity loss as you switch, most end up slower than QWERTY, which you'd think would be impossible given they're scientifically proven to be more efficient. This isn't to say you shouldn't do it. Just, do everything else first, especially if your primary concern is ergonomics.
+
+
 
 
 
