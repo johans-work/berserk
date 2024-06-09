@@ -12,7 +12,7 @@ Berserk is a keyboard layout optimized for the mouse and minimum finger travel, 
 
 I started with the ZSA Voyager, and though the column staggered keys were not that big of an adjustment, figuring out the layers was. What do you even do with 4 thumb keys and 10 layers?
 
-My first lesson as a keyboard enthusiast:
+Lesson #1:
 
 **"Being told what to do is easy. Choice is what's hard."**
 
