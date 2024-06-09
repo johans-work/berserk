@@ -1,11 +1,13 @@
 # Intro
 Berserk is a keyboard layout optimized for the mouse and minimum finger travel, compatible with virtually any keyboard. Berserk isn't so much original as it's inevitable for anyone with similar requirements. Save time by starting with many of the answers first. 
 
-# What To Consider
+# Reasoning
 
-- [x] 1
+- [x] To eliminate the number row at 2u distance from homerow, a number layer is added.
 
-- [x] 2
+- [x] To eliminate the arrows, a navigation layer is added.
+
+
 
 
 # Some History
@@ -14,8 +16,7 @@ I started with the ZSA Voyager, and though the column staggered keys were not th
 
 Lesson one: **"Being told what to do is easy. Choice is what's hard."**
 
-But don't damn your freedom. It's what ensures you'll get to a better place.
-
+But don't damn your freedom. It's what ensures you'll get to a better place!
 
 # A Few Misconceptions
 
