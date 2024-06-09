@@ -5,7 +5,7 @@ Berserk is a keyboard layout optimized for the mouse and minimum finger travel, 
 
 - [ ] To eliminate the number row at 2u distance, Layer 1 is added for numbers.
 - [ ] A numpad layout allows for all numbers to be accessible by the left hand.
-- [ ] Navigation arrows are used when not using the mouse, so are added to the right hand side of Layer 1
+- [ ] Navigation arrows are used when not using the mouse, so are added to the right hand side of Layer 1.
 - [ ] We add the navigation arrows at H J K L after classic VIM motions. 
 - [ ] Layer 2 is added for symbols.
 - [ ] The symbols paired with the numbers remain paired with the numpad layout.
