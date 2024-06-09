@@ -15,7 +15,7 @@ I started with the ZSA Voyager, and though the column staggered keys were not th
 But don't damn your freedom! It's what ensures you'll get to a better place!
 
 
-# some misconceptions
+# a few misconceptions
 
 ### 1. "Smaller keyboards have less keys."
    Physical keys, yes, but every new layer multplies the physical key count. So a 40% keyboard with 3 layers is a 120% keyboard.
