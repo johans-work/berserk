@@ -17,8 +17,6 @@ My first lesson as a keyboard enthusiast:
 But don't damn your freedom. It's what ensures you'll get to a better place.
 
 
-
-
 # A Few Misconceptions
 
 ### 1. "Smaller keyboards have less keys."
@@ -27,7 +25,7 @@ Physical keys, yes, but every new layer multplies the physical key count. So a 4
    
 ### 2. "Layers are difficult."
 
-Shift is a layer, as is ctrl, alt, and the rest of the mod keys. They give you access to another version of each key. What's difficult is figuring out what to put on new layers, and how to trigger them. Choice is what's hard.
+Shift is a layer, as are ctrl, alt, fn, and win, that just give another input for various keys. What's difficult is figuring out what to put on new layers, and how to trigger them. Choice is what's hard.
 
 ### 3. "QWERTY sucks, I also should learn a new layout."
 
@@ -35,6 +33,10 @@ Yes, QWERTY is not the most efficient when considering key usage and travel dist
 
 And the results of the clinical trials conducted by "the internet" are fairly unanomous. After months of productivity loss as you switch, most end up slower than QWERTY, which you'd think would be impossible given they're scientifically proven to be more efficient. This isn't to say you shouldn't do it. Just, do everything else first, especially if your primary concern is ergonomics.
 
+
+# Why Now?
+
+When someone claims something is better, the first question to ask is why hasn't it been done before. In this case, it's because of new firmware that enables custom layers, together with dual function keys in ways never before possible.
 
 
 
