@@ -27,7 +27,7 @@ Physical keys, yes, but every new layer multplies the physical key count. So a 4
    
 ### 2. "Layers are difficult."
 
-Shift is a layer, as is ctrl alt and the rest of the mod keys. They give you access to another version of each key. What's difficult is figuring out what to put on new layers, and how to trigger them. Choice is what's hard.
+Shift is a layer, as is ctrl, alt, and the rest of the mod keys. They give you access to another version of each key. What's difficult is figuring out what to put on new layers, and how to trigger them. Choice is what's hard.
 
 ### 3. "QWERTY sucks, I also should learn a new layout."
 
