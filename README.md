@@ -38,7 +38,7 @@ And the results of the clinical trials conducted by "the internet" are fairly un
 
 # Why Now?
 
-When someone claims something is better, the first question to ask is why hasn't it been done before. In this case, it's because of new firmware that enables custom layers, together with dual function keys in ways never before possible.
+New layouts such as Berserk have become possible thanks to the popularity of new firmware that enables easy customization of layers and key functions; namely QMK, and it's derivatives VIA and VIAL.
 
 
 
