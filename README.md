@@ -8,11 +8,15 @@ So if anything, bererk is just here to save you time. Start from the end, where 
 
 # some history
 
-I started with the ZSA Voyager, and though the column staggered keys were not that big of an adjustment, figuring out the layers was. What do you even do with 4 thumb keys and 10 layers? Which brings me to the first lesson of a keyboard enthuseist. 
+I started with the ZSA Voyager, and though the column staggered keys were not that big of an adjustment, figuring out the layers was. What do you even do with 4 thumb keys and 10 layers?
 
-"Being told what to do is easy. Choice is what's hard."
+My first lesson as a keyboard enthusiast:
 
-But don't damn your freedom! It's what ensures you'll get to a better place!
+**"Being told what to do is easy. Choice is what's hard."**
+
+But don't damn your freedom. It's what ensures you'll get to a better place.
+
+
 
 
 # a few misconceptions
