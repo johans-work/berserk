@@ -3,6 +3,7 @@ Berserk is a keyboard layout optimized for the mouse and minimum finger travel, 
 
 # The Answers, First
 
+- [ ] Optimize for 1u max travel distance with 6x3 on each hand + thumb keys.
 - [ ] ; is replace with ' that has higher usage.
 - [ ] To eliminate the number row at 2u distance, Layer 1 is added for numbers.
 - [ ] A numpad layout allows for all numbers to be accessible by the left hand.
