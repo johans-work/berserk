@@ -3,15 +3,37 @@ Berserk is a keyboard layout optimized for the mouse and minimum finger travel, 
 
 # The Answers, First
 
+- [ ] ; is replace with ' that has higher usage.
 - [ ] To eliminate the number row at 2u distance, Layer 1 is added for numbers.
 - [ ] A numpad layout allows for all numbers to be accessible by the left hand.
 - [ ] Navigation arrows are used when not using the mouse, so are added to the right hand side of Layer 1.
-- [ ] We add the navigation arrows at H J K L after classic VIM motions. 
+- [ ] Navigation arrows are added at H J K L after standard VIM motions. 
 - [ ] Layer 2 is added for symbols.
-- [ ] The symbols paired with the numbers remain paired with the numpad layout.
-- [ ] On the left of layer 2, we add the remaining symbols, with 
+- [ ] The symbols paired with number keys remain paired occupying the same position as their numbers.
+- [ ] - _ = + are added to T B G R on the left of layer 2.
+- [ ] ; and : are placed above , and . at K L on the left of layer 2.
+- [ ] ` is place at ' and ~ above it at P on the left of layer 2.  
+- [ ] () are added at H J, {} at Y U, and [] at I O on the left of layer 2. 
+- [ ] | and \ are added to N and M on the left of layer 2.
+- [ ] < > ? remain at their positions on layer 2.
+- [ ] Layer 3 is added for Fn keys, with the same numpad layout.
 
-- [x] Arrows, a navigation layer is added.
+With the above, all input keys have been laid out with plenty of empty keys for further customizations.
+Next are the mod keys, which are more dependent on the physical key positions.
+
+The following works best with a split layout such as Alice and most split keyboards that have at least 2 left thumb keys and 1 right thumb key. It also assumes there is no number row, and possibly no ctrl key below shift, as with HHKB style layouts. Therefore, there are only 3 mod keys to work with / worry about.
+
+- [ ] Caps lock is replaced with ctrl on hold and tab on tap, after the HHKB layout.
+- [ ] Tab is replaced with win on hold and del on tap.
+- [ ] Left shift is replaced with alt on hold and esc on tap.
+- [ ] The main left thumb key is replaced with enter on tap, and shift on hold.
+- [ ] The second left thumb key is replaced with backspace on tap, and Layer 1 on hold.
+- [ ] The main right thumb key is replaced with space on tap and layer 1 on hold.
+
+To adapt the above to standard keyboards with just one spacebar at the thumb:
+
+- [ ] The right hand shift, enter, and backspace remain at their positions.
+- [ ] Space is replaced with space on tap and shift on hold.
 
 
 # Main Factors
