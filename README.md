@@ -35,9 +35,14 @@ To adapt the above to standard keyboards with just one spacebar at the thumb:
 - [ ] The right hand shift, enter, and backspace remain at their positions.
 - [ ] Space is replaced with space on tap and shift on hold.
 
+# Determining Factors
 
-# Main Factors
-
+- [ ] Whether you use your mouse a lot.
+- [ ] Whether you rely on classic shortcut keys for copy and paste, photoshop, or vim, etc.
+- [ ] Whether you even use function keys at all.
+- [ ] Whether you prefer similar keys grouped on one hand or split across both.
+- [ ] Whether you code.
+- [ ] Your keyboard.
 
 
 # Some History
