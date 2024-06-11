@@ -11,16 +11,17 @@ Berserk is a keyboard layout optimized for the mouse and minimum finger travel, 
 - [ ] Navigation arrows are added at H J K L after standard VIM motions. 
 - [ ] Layer 2 is added for symbols.
 - [ ] The symbols paired with number keys remain paired occupying the same position as their numbers.
-- [ ] - _ = + are added to T B G R on the left of layer 2.
+- [ ] - _ = + are added to T B G R on the left of layer 2. Equal is in the middle, with underscore below it, and minus above it, with plus next to minus at the 9 position.
 - [ ] ; and : are placed above , and . at K L on the left of layer 2.
 - [ ] ` is place at ' and ~ above it at P on the left of layer 2.  
 - [ ] () are added at H J, {} at Y U, and [] at I O on the left of layer 2. 
-- [ ] | and \ are added to N and M on the left of layer 2.
+- [ ] | and \ are added to N and M on the left of layer 2. With Alice layouts, / is added to the spair key to the left of N.
 - [ ] < > ? remain at their positions on layer 2.
 - [ ] Layer 3 is added for Fn keys, with the same numpad layout.
 
-With the above, all input keys have been laid out with plenty of empty keys for further customizations.
-Next are the mod keys, which are more dependent on the physical key positions.
+With the above, all input keys have been laid out with room to spair.
+
+Next are the mod keys. They are merged into tap and hold dual function keys to the leftmost column and thumb row.
 
 The following works best with a split layout such as Alice and most split keyboards that have at least 2 left thumb keys and 1 right thumb key. It also assumes there is no number row, and possibly no ctrl key below shift, as with HHKB style layouts. Therefore, there are only 3 mod keys to work with / worry about.
 
