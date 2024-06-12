@@ -23,12 +23,16 @@ With the above, all input keys have been laid out with room to spair.
 
 Next are the mod keys. They are merged into tap and hold dual function keys to the leftmost column and thumb row.
 
-The following works best with a split layout such as Alice and most split keyboards that have at least 2 left thumb keys and 1 right thumb key. It also assumes there is no number row, and possibly no ctrl key below shift, as with HHKB style layouts. Therefore, there are only 3 mod keys to work with / worry about.
-
-- [ ] Caps lock is replaced with ctrl on hold and tab on tap, after the HHKB layout.
-- [ ] Tab is replaced with win on hold and del on tap.
-- [ ] Left shift is replaced with alt on hold and esc on tap.
+- [ ] We are assuming at least two left thumb keys, and one right thumb key.
+- [ ] The main right thumb key is replaced with space on tap, and layer 1 (numbers) on hold.
 - [ ] The main left thumb key is replaced with enter on tap, and shift on hold.
+- [ ] With shift at the thumb, caps lock and shift keys become redundant.
+- [ ] Caps lock is replaced with ctrl on hold after the popular HHKB layout, and tab on tap, for tab to be in the middle of the column.
+- [ ] Between left shift and the original tab key, we can distribute alt, win, del, and esc.
+- [ ] To avoid accidentally hitting del, we move it to the top of the column at the original tab key position, and therefore esc goes to left shift.
+- [ ] The original tab on hold, and alt to left shift.
+- [ ] 
+- [ ] 
 - [ ] The second left thumb key is replaced with backspace on tap, and Layer 1 on hold.
 - [ ] The main right thumb key is replaced with space on tap and layer 1 on hold.
 
