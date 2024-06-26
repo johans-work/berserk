@@ -9,7 +9,7 @@ features:
 - [ ] eliminates dedicated mod keys
 - [ ] homerow mods optional except for the A key
 - [ ] room for at least 1 big spacebar for sound
-- [ ] ample unused keys
+- [ ] ample free keys
 
 requirements:
 
