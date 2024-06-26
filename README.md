@@ -1,13 +1,13 @@
 # Intro
 Berserk is a univeral keyboard layout optimized for mouse use and minimum finger travel, compatible down to 40% layouts. Berserk isn't so much original as it is inevitable for anyone with similar requirements with a keyboard equipt with dual function keys and layers (VIA/VIAL etc). Save time by starting with many of the answers first. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). Main features:
 
-- [ ] max 1 key finger travel
+- [ ] max 1u (1 key) finger travel
 - [ ] compatible down to 40%
 - [ ] optimized for mouse use
 - [ ] eliminates dedicated mod keys
 - [ ] homerow mods optional except for the [a] key
-- [ ] room for at least one big spacebar for sound
-- [ ] ample extra room
+- [ ] room for at least 1 big spacebar for sound
+- [ ] ample unused keys
 
 Most programmable keyboards don't come with layout instructions, and almost tout figuring it out yourself as a feature. But this is a lot of hard work that gets in the way of real work. Berserk offers a sensible default for your first split or 40% keyboard.
 
@@ -25,6 +25,7 @@ With that, we have eliminated all mod keys on the bottom row.
 
 ## phase 2: multiplication
 
+Layers multiply key count. So even with a 40% keyboard, 3 layers already gives you 120%, with minimum finger travel.
 
 
 
