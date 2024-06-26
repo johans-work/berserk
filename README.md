@@ -8,9 +8,10 @@ requirements:
 features:
 
 - [ ] no finger travel (max 1u / 1 key)
-- [ ] compatible with any keyboard
-- [ ] optimized for mouse use
-- [ ] eliminates dedicated mod keys
+- [ ] good with any keyboard
+- [ ] great with the mouse
+- [ ] no dedicated mod keys
+- [ ] arrow keys on homerow
 - [ ] homerow mods optional except for the A key
 - [ ] room for at least 1 big spacebar for sound
 - [ ] ample free keys
