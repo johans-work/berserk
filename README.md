@@ -15,9 +15,9 @@ features:
 - [ ] room for at least 1 big spacebar for sound
 - [ ] ample free keys
 
-Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can be tedious work that obstructs your real work. Get a running start with berserk, or just take whatever works for you. Berserk isn't so much original as it is inevitable for anyone with similar requirements. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
+Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can obstructs your real work. Get a running start with berserk, or grab whatever works for you. Berserk isn't so much original as it is inevitable for anyone with similar requirements. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
-## phase 1: elimination
+### phase 1: eliminated all mod keys on the bottom row, the num row, and the fn row.
 
 - [ ] We adopt the hhkb ctrl position at caps lock, and swap it with tab on tap, ctrl on hold.
 - [ ] If you only have one space bar, swap it with space on tap, shift on hold.
@@ -26,7 +26,6 @@ Most programmable keyboards don't come with layout instructions, and though solv
 - [ ] With the esc key free, we swap it with del on tap, win on hold.
 - [ ] layer1 is added for numbers, layer2 for symbols, and layer3 for function keys.
 
-With that, we have eliminated all mod keys on the bottom row, the num row, and the fn row.
 
 ## phase 2: multiplication
 
