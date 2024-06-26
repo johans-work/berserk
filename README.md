@@ -7,7 +7,7 @@ Main features:
 - [ ] compatible down to 40%, up to 100%
 - [ ] optimized for mouse use
 - [ ] eliminates dedicated mod keys
-- [ ] homerow mods optional except for the [a] key
+- [ ] homerow mods optional except for the A key
 - [ ] room for at least 1 big spacebar for sound
 - [ ] ample unused keys
 
@@ -22,22 +22,23 @@ Most programmable keyboards don't come with layout instructions, and almost tout
 - [ ] If you have two space bars, swap left space with enter on tap, shift on hold, and right spacebar with space on tap, layer1 on hold.
 - [ ] With the shift key free, we swap it with esc on tap, alt on hold.
 - [ ] With the esc key free, we swap it with del on tap, win on hold.
+- [ ] We add layer1 for numbers.
 
-With that, we have eliminated all mod keys on the bottom row.
+With that, we have eliminated all mod keys on the bottom row, and the num row.
 
 ## phase 2: multiplication
 
 Layers multiply key count. So even with a 40% keyboard, 3 layers already gives you 120%, with minimum finger travel.
 
-
-
-- [ ] Optimize for 1u max travel distance with 6x3 on each hand + thumb keys.
 - [ ] ; is replace with ' that has higher usage.
-- [ ] To eliminate the number row at 2u distance, Layer 1 is added for numbers.
-- [ ] A numpad layout allows for all numbers to be accessible by the left hand.
-- [ ] Navigation arrows are used when not using the mouse, so are added to the right hand side of Layer 1.
-- [ ] Navigation arrows are added at H J K L after standard VIM motions. 
-- [ ] Layer 2 is added for symbols.
+- [ ] We adopt a numpad layout on the left side of layer1 to allow all numbers to be accessible by the left hand.
+- [ ] Navigation arrows are used when not using the mouse, so are added to the right side of layer1.
+- [ ] We adopt standard VIM motions and add navigation arrows at H J K L.
+
+## phase 3: symbols
+
+
+- [ ] Layer2 is added for symbols.
 - [ ] The symbols paired with number keys remain paired occupying the same position as their numbers.
 - [ ] - _ = + are added to T B G R on the left of layer 2. Equal is in the middle, with underscore below it, and minus above it, with plus next to minus at the 9 position.
 - [ ] ; and : are placed above , and . at K L on the left of layer 2.
