@@ -1,7 +1,7 @@
 # Intro
 Berserk is a univeral keyboard layout for programmable keyboards, and offers a sensible default for split and 40% keyboards. 
 
-Main features:
+features:
 
 - [ ] max 1u (1 key) finger travel
 - [ ] compatible down to 40%, up to 100%
@@ -11,7 +11,11 @@ Main features:
 - [ ] room for at least 1 big spacebar for sound
 - [ ] ample unused keys
 
-Most programmable keyboards don't come with layout instructions, and almost tout figuring it out yourself as a feature. But this is a lot of hard work that gets in the way of real work. Berserk isn't so much original as it is inevitable for anyone with similar requirements with a keyboard equipt with dual function keys and layers (VIA/VIAL etc). Save time by starting with many of the answers first. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
+requirements:
+
+- [ ] dual function keys and layers offered by programmable firmware such as VIA/VIAL.
+
+Most programmable keyboards don't come with layout instructions, and almost tout figuring it out yourself as a feature. But this is a lot of hard work that gets in the way of real work. Berserk isn't so much original as it is inevitable for anyone with similar requirements. Save time by starting with many of the answers first. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
 # Answers First
 
