@@ -1,17 +1,21 @@
 # Intro
-Berserk is a univeral keyboard layout optimized for mouse use and minimum finger travel. Berserk isn't so much original as it is inevitable for anyone with similar requirements with a keyboard equipt with dual function keys and layers (VIA/VIAL etc). Save time by starting with many of the answers first. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide).
+Berserk is a univeral keyboard layout optimized for mouse use and minimum finger travel, compatible down to 40% layouts. Berserk isn't so much original as it is inevitable for anyone with similar requirements with a keyboard equipt with dual function keys and layers (VIA/VIAL etc). Save time by starting with many of the answers first. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide).
+
+Most programmable keyboards don't come with layout instructions, and almost tout figuring it out yourself as a feature. But this is a lot of hard work that gets in the way of real work. Berserk offers a sensible default for your first split or 40% keyboard.
 
 # Answers First
 
-## phase 1: subtraction
+## phase 1: elimination
 
 Dual function keys make eliminating mod keys a breeze.
 
 - [ ] We adopt the hhkb ctrl position at caps lock, and swap it with tab on tap, ctrl on hold.
 - [ ] If you only have one space bar, swap it with space on tap, shift on hold.
-- [ ] If you have two space bars, swap left space with enter on tap, and shift on hold.
+- [ ] If you have two space bars, swap left space with enter on tap, shift on hold, and right spacebar with space on tap, layer1 on hold.
 - [ ] With the shift key free, we swap it with esc on tap, alt on hold.
-- [ ] With the esc key free, we swap it with del on tap, and win on hold.
+- [ ] With the esc key free, we swap it with del on tap, win on hold.
+
+With that, we have eliminated all mod keys by the space
 
 ## phase 2: multiplication
 
