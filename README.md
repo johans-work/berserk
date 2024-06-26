@@ -27,7 +27,7 @@ Most programmable keyboards don't come with layout instructions, and though solv
 - [ ] layer1 is added for numbers, layer2 for symbols, and layer3 for function keys.
 
 
-## phase 2: multiply
+## phase 2: multiply by 3
 
 Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, with no finger travel.
 
