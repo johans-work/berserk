@@ -1,8 +1,10 @@
 # Intro
-Berserk is a univeral keyboard layout for programmable keyboards, and offers a sensible default for split and 40% keyboards. Main features:
+Berserk is a univeral keyboard layout for programmable keyboards, and offers a sensible default for split and 40% keyboards. 
+
+Main features:
 
 - [ ] max 1u (1 key) finger travel
-- [ ] compatible down to 40%
+- [ ] compatible down to 40%, up to 100%
 - [ ] optimized for mouse use
 - [ ] eliminates dedicated mod keys
 - [ ] homerow mods optional except for the [a] key
