@@ -15,9 +15,7 @@ features:
 - [ ] room for at least 1 big spacebar for sound
 - [ ] ample free keys
 
-Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can be tedious work that obstructs real work. Berserk isn't so much original as it is inevitable for anyone with similar requirements. Get a running start with berserk, or just take whatever works for you. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
-
-# Answers First
+Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can be tedious work that obstructs your real work. Get a running start with berserk, or just take whatever works for you. Berserk isn't so much original as it is inevitable for anyone with similar requirements. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
 ## phase 1: elimination
 
@@ -35,11 +33,7 @@ With that, we have eliminated all mod keys on the bottom row, the num row, and t
 Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, with no finger travel.
 
 
-- [ ] We adopt a numpad layout on the left side of layer1 to allow all numbers to be accessible by the left hand.
-- [ ] Navigation arrows are used when not using the mouse, so are added to the right side of layer1.
-- [ ] We adopt standard VIM motions and add navigation arrows at H J K L (homerow).
-
-## phase 3: symbols
+## phase 3: the rest of the symbols
 
 - [ ] Layer2 is added for symbols.
 - [ ] The symbols paired with number keys remain paired occupying the same position as their numbers.
@@ -50,7 +44,6 @@ Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, 
 - [ ] () are added at H J, {} at Y U, and [] at I O on the left of layer 2. 
 - [ ] | and \ are added to N and M on the left of layer 2. With Alice layouts, / is added to the spair key to the left of N.
 - [ ] < > ? remain at their positions on layer 2.
-- [ ] Layer 3 is added for Fn keys, with the same numpad layout.
 
 With the above, all input keys have been laid out with room to spair.
 
