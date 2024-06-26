@@ -17,7 +17,7 @@ features:
 
 Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can obstructs your real work. Get a running start with berserk, or grab whatever works for you. Berserk isn't so much original as it is inevitable for anyone with similar requirements. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
-### phase 1: eliminated all mod keys on the bottom row, the num row, and the fn row.
+## phase 1: eliminate all mod, num, and fn keys
 
 - [ ] We adopt the hhkb ctrl position at caps lock, and swap it with tab on tap, ctrl on hold.
 - [ ] If you only have one space bar, swap it with space on tap, shift on hold.
@@ -27,7 +27,7 @@ Most programmable keyboards don't come with layout instructions, and though solv
 - [ ] layer1 is added for numbers, layer2 for symbols, and layer3 for function keys.
 
 
-## phase 2: multiplication
+## phase 2: multiply
 
 Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, with no finger travel.
 
