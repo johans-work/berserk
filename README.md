@@ -34,7 +34,7 @@ With that, we have eliminated all mod keys on the bottom row, and the num row.
 
 Layers multiply key count. So even with a 40% keyboard, 3 layers already gives you 120%, with minimum finger travel.
 
-- [ ] ; is replace with ' that has higher usage.
+
 - [ ] We adopt a numpad layout on the left side of layer1 to allow all numbers to be accessible by the left hand.
 - [ ] Navigation arrows are used when not using the mouse, so are added to the right side of layer1.
 - [ ] We adopt standard VIM motions and add navigation arrows at H J K L.
@@ -45,6 +45,7 @@ Layers multiply key count. So even with a 40% keyboard, 3 layers already gives y
 - [ ] Layer2 is added for symbols.
 - [ ] The symbols paired with number keys remain paired occupying the same position as their numbers.
 - [ ] - _ = + are added to T B G R on the left of layer 2. Equal is in the middle, with underscore below it, and minus above it, with plus next to minus at the 9 position.
+- [ ] ; is replace with ' that has higher usage.
 - [ ] ; and : are placed above , and . at K L on the left of layer 2.
 - [ ] ` is place at ' and ~ above it at P on the left of layer 2.  
 - [ ] () are added at H J, {} at Y U, and [] at I O on the left of layer 2. 
