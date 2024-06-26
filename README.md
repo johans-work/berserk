@@ -15,7 +15,7 @@ requirements:
 
 - [ ] dual function keys and layers offered by programmable firmware such as VIA/VIAL.
 
-Most programmable keyboards don't come with layout instructions, and almost tout figuring it out yourself as a feature. But this is a lot of hard work that gets in the way of real work. Berserk isn't so much original as it is inevitable for anyone with similar requirements. Save time by starting with many of the answers first. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
+Most programmable keyboards don't come with layout instructions, and almost tout figuring it out yourself as a feature. But this is tedious work that obstructs real work. Berserk isn't so much original as it is inevitable for anyone with similar requirements. Save time by starting with many of the answers first. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
 # Answers First
 
