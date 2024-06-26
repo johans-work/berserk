@@ -44,7 +44,7 @@ Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, 
 - [ ] | and \ are added to N and M on the left of layer 2. With Alice layouts, / is added to the spair key to the left of N.
 - [ ] < > ? remain at their positions on layer 2.
 
-## final analysis
+## optional configurations
 
 Next are the mod keys. They are merged into tap and hold dual function keys to the leftmost column and thumb row.
 
