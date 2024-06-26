@@ -6,7 +6,7 @@ Berserk is a univeral keyboard layout optimized for mouse use and minimum finger
 - [ ] optimized for mouse use
 - [ ] eliminates dedicated mod keys
 - [ ] homerow mods optional except for the [a] key
-- [ ] room for at least 1 big spacebar for sound
+- [ ] room for at least one big spacebar for sound
 - [ ] ample extra room
 
 Most programmable keyboards don't come with layout instructions, and almost tout figuring it out yourself as a feature. But this is a lot of hard work that gets in the way of real work. Berserk offers a sensible default for your first split or 40% keyboard.
