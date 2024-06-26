@@ -32,7 +32,7 @@ Most programmable keyboards don't come with layout instructions, and though solv
 Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, with no finger travel.
 
 
-## phase 3: the rest of the symbols
+## phase 3: the rest
 
 - [ ] Layer2 is added for symbols.
 - [ ] The symbols paired with number keys remain paired occupying the same position as their numbers.
@@ -44,7 +44,7 @@ Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, 
 - [ ] | and \ are added to N and M on the left of layer 2. With Alice layouts, / is added to the spair key to the left of N.
 - [ ] < > ? remain at their positions on layer 2.
 
-With the above, all input keys have been laid out with room to spair.
+## final analysis
 
 Next are the mod keys. They are merged into tap and hold dual function keys to the leftmost column and thumb row.
 
