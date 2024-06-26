@@ -1,21 +1,21 @@
 # Intro
 Berserk is a univeral ergonomic keyboard layout for programmable keyboards, that also offers a sensible default for split and 40% keyboards. 
 
+requirements:
+
+- [ ] dual function keys and layers (offered by programmable firmware such as VIA/VIAL).
+
 features:
 
-- [ ] max 1u (1 key) finger travel
-- [ ] compatible down to 40%, up to 100%
+- [ ] no finger travel (max 1u / 1 key)
+- [ ] compatible with any keyboard
 - [ ] optimized for mouse use
 - [ ] eliminates dedicated mod keys
 - [ ] homerow mods optional except for the A key
 - [ ] room for at least 1 big spacebar for sound
 - [ ] ample free keys
 
-requirements:
-
-- [ ] dual function keys and layers (offered by programmable firmware such as VIA/VIAL).
-
-Most programmable keyboards don't come with layout instructions, and though solving the puzzle can be fun, this is tedious work that obstructs real work. Berserk isn't so much original as it is inevitable for anyone with similar requirements. Get a running start with berserk, or take anything works for you. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
+Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can be tedious work that obstructs real work. Berserk isn't so much original as it is inevitable for anyone with similar requirements. Get a running start with berserk, or just take whatever works for you. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
 # Answers First
 
@@ -32,7 +32,7 @@ With that, we have eliminated all mod keys on the bottom row, the num row, and t
 
 ## phase 2: multiplication
 
-Layers multiply key count. So even with a 40% keyboard, 3 layers already gives you 120%, with minimum finger travel.
+Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, with no finger travel.
 
 
 - [ ] We adopt a numpad layout on the left side of layer1 to allow all numbers to be accessible by the left hand.
