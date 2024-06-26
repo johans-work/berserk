@@ -1,7 +1,22 @@
 # Intro
-Berserk is a keyboard layout optimized for the mouse and minimum finger travel, compatible with virtually any keyboard. Berserk isn't so much original as it is inevitable for anyone with similar requirements. Save time by starting with many of the answers first. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide).
+Berserk is a univeral keyboard layout optimized for mouse use and minimum finger travel. Berserk isn't so much original as it is inevitable for anyone with similar requirements with a keyboard equipt with dual function keys and layers (VIA/VIAL etc). Save time by starting with many of the answers first. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide).
 
 # Answers First
+
+## phase 1: subtraction
+
+Dual function keys make eliminating mod keys a breeze.
+
+- [ ] We adopt the hhkb ctrl position at caps lock, and swap it with tab on tap, ctrl on hold.
+- [ ] If you only have one space bar, swap it with space on tap, shift on hold.
+- [ ] If you have two space bars, swap left space with enter on tap, and shift on hold.
+- [ ] With the shift key free, we swap it with esc on tap, alt on hold.
+- [ ] With the esc key free, we swap it with del on tap, and win on hold.
+
+## phase 2: multiplication
+
+
+
 
 - [ ] Optimize for 1u max travel distance with 6x3 on each hand + thumb keys.
 - [ ] ; is replace with ' that has higher usage.
