@@ -13,7 +13,7 @@ features:
 - [ ] no dedicated mod keys
 - [ ] arrow keys on homerow
 - [ ] homerow mods optional except for the A key
-- [ ] room for at least 1 big spacebar for sound
+- [ ] room for big spacebars for sound
 - [ ] ample free keys
 
 Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can obstructs your real work. Get a running start with berserk, or grab whatever works for you. Berserk isn't so much original as it is inevitable for anyone with similar requirements. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
