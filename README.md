@@ -23,8 +23,8 @@ Most programmable keyboards don't come with layout instructions, and though solv
 - [ ] We adopt the hhkb ctrl position at caps lock, and swap caps lock with tab on tap, ctrl on hold.
 - [ ] If you only have one space bar, swap it with space on tap, shift on hold.
 - [ ] If you have two space bars, swap left space with enter on tap, shift on hold, and right spacebar with space on tap, layer1 on hold.
-- [ ] With the shift key free, we swap it with esc on tap, alt on hold.
-- [ ] With the esc key free, we swap it with del on tap, win on hold.
+- [ ] With the shift key free, we swap left shift with esc on tap, alt on hold.
+- [ ] With the esc key free, we swap esc with del on tap, win on hold.
 - [ ] layer1 is added for numbers, layer2 for symbols, and layer3 for function keys.
 
 
