@@ -44,10 +44,16 @@ For regular keyboards with only one spacebar, shift is added to the spacebar, wi
 
 Layers multiply key count. A 40% keyboard with 4 layers already gives you 160%, with no finger travel.
 
-
+layer1 = The numpad + navigation layer. Arrow keys are at homerow.
 
 ![image](https://github.com/johans-work/berserk/assets/108384802/7c697354-d504-4b42-a7bf-f9dd31bbbaef)
+
+The number symbols are left paired, with the remaining symbols grouped into 3 categories.
+
 ![image](https://github.com/johans-work/berserk/assets/108384802/86fe64f5-8e4a-407f-a566-f8c986bc50f6)
+
+The fn layer simply follows the num positions. Ample room for more custom keys.
+
 ![image](https://github.com/johans-work/berserk/assets/108384802/1715f475-7f3c-4752-be03-2271276ff1e0)
 
 
