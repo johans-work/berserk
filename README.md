@@ -56,13 +56,9 @@ The fn layer simply follows the num positions. Ample room for more custom keys.
 
 ![image](https://github.com/johans-work/berserk/assets/108384802/1715f475-7f3c-4752-be03-2271276ff1e0)
 
-
-- [ ] The symbols on number keys remain paired at the same position on the symbol layer.
-
 ## phase 3: the rest
 
-- [ ] Layer2 is added for symbols.
-
+- [ ] The number symbols remain paired at the same position on the symbol layer.
 - [ ] - _ = + are added to T B G R on the left of layer 2. Equal is in the middle, with underscore below it, and minus above it, with plus next to minus at the 9 position.
 - [ ] ; is replace with ' that has higher usage on layer0.
 - [ ] ; and : are placed above , and . at K L on the left of layer 2.
@@ -75,19 +71,9 @@ The fn layer simply follows the num positions. Ample room for more custom keys.
 
 Next are the mod keys. They are merged into tap and hold dual function keys to the leftmost column and thumb row.
 
-- [ ] We are assuming at least two left thumb keys, and one right thumb key.
-- [ ] The main right thumb key is replaced with space on tap, and layer 1 (numbers) on hold.
-- [ ] The main left thumb key is replaced with enter on tap, and shift on hold.
-- [ ] With shift at the thumb, caps lock and shift keys become redundant.
-- [ ] Caps lock is replaced with ctrl on hold after the popular HHKB layout, and tab on tap, for tab to be in the middle of the column.
-- [ ] Between left shift and the original tab key, we can distribute alt, win, del, and esc.
-- [ ] To avoid accidentally hitting del, we move it to the top of the column at the original tab key position, and therefore esc goes to left shift.
-- [ ] The original tab on hold, and alt to left shift.
-- [ ] 
-- [ ] 
-- [ ] The second left thumb key is replaced with backspace on tap, and Layer 1 on hold.
-- [ ] The main right thumb key is replaced with space on tap and layer 1 on hold.
 
+- [ ] To avoid accidentally hitting del, we move it to the top of the column at the original tab key position, and therefore esc goes to left shift.
+      
 To adapt the above to standard keyboards with just one spacebar at the thumb:
 
 - [ ] The right hand shift, enter, and backspace remain at their positions.
