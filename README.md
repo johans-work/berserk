@@ -25,7 +25,9 @@ features:
 
 Berserk isn't so much original as it is inevitable for anyone with similar requirements.  I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
-## phase 1: eliminate all mod, num, and fn keys
+## 1: eliminate all mod, num, and fn keys
+
+Mods are merged into the far left, and layers are triggered with the pinky.
 
 ![image](https://github.com/johans-work/berserk/assets/108384802/a668aacc-a49a-4440-bbb3-f735956d37f9)
 
@@ -38,9 +40,11 @@ Berserk isn't so much original as it is inevitable for anyone with similar requi
 
 For regular keyboards with only one spacebar, shift is added to the spacebar, with enter and backspace remaining at their standard positions. With a split spacebar, both enter and backspace can be assigned to the left hand side, which works great with the mouse.
 
-## phase 2: multiply by 4
+## 2: multiply by 4
 
 Layers multiply key count. A 40% keyboard with 4 layers already gives you 160%, with no finger travel.
+
+
 
 ![image](https://github.com/johans-work/berserk/assets/108384802/7c697354-d504-4b42-a7bf-f9dd31bbbaef)
 ![image](https://github.com/johans-work/berserk/assets/108384802/86fe64f5-8e4a-407f-a566-f8c986bc50f6)
