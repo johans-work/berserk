@@ -37,6 +37,8 @@ For regular keyboards with only one spacebar, shift is added to the spacebar, wi
 
 Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, with no finger travel.
 
+![image](https://github.com/johans-work/berserk/assets/108384802/7c697354-d504-4b42-a7bf-f9dd31bbbaef)
+
 
 - [ ] The symbols on number keys remain paired at the same position on the symbol layer.
 
