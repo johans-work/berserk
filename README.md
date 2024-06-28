@@ -1,6 +1,7 @@
 # Intro
 Berserk is a univeral ergonomic keyboard layout for programmable keyboards, that also offers a sensible default for split and 40%. 
 
+
 requirements:
 
 - [ ] dual function keys and layers (offered by programmable firmware such as VIA/VIAL).
@@ -20,6 +21,8 @@ features:
 Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can obstruct your real work. Get a running start with berserk, or grab whatever works for you. Berserk isn't so much original as it is inevitable for anyone with similar requirements. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
 ## phase 1: eliminate all mod, num, and fn keys
+
+![image](https://github.com/johans-work/berserk/assets/108384802/a668aacc-a49a-4440-bbb3-f735956d37f9)
 
 - [ ] We adopt the hhkb ctrl position at caps lock, and swap caps lock with tab on tap, ctrl on hold.
 - [ ] If you only have one space bar, swap it with space on tap, shift on hold.
