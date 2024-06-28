@@ -23,7 +23,7 @@ features:
 - [ ] room for big spacebars for sound
 - [ ] ample free keys
 
-Berserk isn't so much original as it is inevitable for anyone with similar requirements. I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
+Berserk isn't so much original as it is inevitable for anyone with similar requirements.  I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
 ## phase 1: eliminate all mod, num, and fn keys
 
