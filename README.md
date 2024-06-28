@@ -39,6 +39,7 @@ Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, 
 
 ![image](https://github.com/johans-work/berserk/assets/108384802/7c697354-d504-4b42-a7bf-f9dd31bbbaef)
 ![image](https://github.com/johans-work/berserk/assets/108384802/86fe64f5-8e4a-407f-a566-f8c986bc50f6)
+![image](https://github.com/johans-work/berserk/assets/108384802/1715f475-7f3c-4752-be03-2271276ff1e0)
 
 
 - [ ] The symbols on number keys remain paired at the same position on the symbol layer.
