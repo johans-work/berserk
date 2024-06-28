@@ -28,11 +28,12 @@ Most programmable keyboards don't come with layout instructions, and though solv
 - [ ] With the esc key free, swap esc with del on tap, win on hold.
 - [ ] layer1 is added for numbers, layer2 for symbols, and layer3 for function keys.
 
-For regular keyboards with only one spacebar, shift is added to the spacebar, with enter and backspace remaining at their standard positions. With a split spacebar, both enter and backspace can be assigned to the left hand side. This gives you enter and backspace when using the mouse.
+For regular keyboards with only one spacebar, shift is added to the spacebar, with enter and backspace remaining at their standard positions. With a split spacebar, both enter and backspace can be assigned to the left hand side, which works great with the mouse.
 
 ## phase 2: multiply by 3
 
 Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, with no finger travel.
+
 
 - [ ] The symbols on number keys remain paired at the same position on the symbol layer.
 
