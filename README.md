@@ -7,11 +7,11 @@ Berserk is a univeral ergonomic keyboard layout for programmable keyboards, that
 ![image](https://pbs.twimg.com/media/GRINuIqbYAEL3nf?format=jpg&name=4096x4096)
 cisne 40% keyboard
 
-requirements:
+berserk requirements:
 
 - [ ] dual function keys and layers (offered by programmable firmware such as VIA/VIAL).
 
-features:
+berserk features:
 
 - [ ] no finger travel (max 1u / 1 key)
 - [ ] good with any keyboard
