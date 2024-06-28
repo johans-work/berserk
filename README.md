@@ -5,7 +5,7 @@ Berserk is a univeral ergonomic keyboard layout for programmable keyboards, that
 
 
 ![image](https://pbs.twimg.com/media/GRINuIqbYAEL3nf?format=jpg&name=4096x4096)
-a 40% cisne keyboard
+cisne 40% keyboard
 
 requirements:
 
