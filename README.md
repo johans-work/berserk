@@ -1,7 +1,8 @@
 # Intro
 Berserk is a univeral ergonomic keyboard layout for programmable keyboards, that also offers a sensible default for split and 40%. 
 
-https://pbs.twimg.com/media/GRINuIqbYAEL3nf?format=jpg&name=4096x4096
+
+
 
 requirements:
 
