@@ -5,7 +5,7 @@ Berserk is a univeral ergonomic keyboard layout for programmable keyboards, that
 
 
 ![image](https://pbs.twimg.com/media/GRINuIqbYAEL3nf?format=jpg&name=4096x4096)
-
+[a 40% cisne keyboard]
 
 requirements:
 
@@ -42,7 +42,7 @@ For regular keyboards with only one spacebar, shift is added to the spacebar, wi
 
 ## 2: multiply by 4
 
-Layers multiply key count. A 40% keyboard with 4 layers already gives you 160%, with no finger travel.
+A 40% keyboard with 4 layers already gives you 160%, with no finger travel.
 
 layer1 = The numpad + navigation layer. Arrow keys are at homerow.
 
