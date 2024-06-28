@@ -33,9 +33,9 @@ Most programmable keyboards don't come with layout instructions, and though solv
 
 For regular keyboards with only one spacebar, shift is added to the spacebar, with enter and backspace remaining at their standard positions. With a split spacebar, both enter and backspace can be assigned to the left hand side, which works great with the mouse.
 
-## phase 2: multiply by 3
+## phase 2: multiply by 4
 
-Layers multiply key count. A 40% keyboard with 3 layers already gives you 120%, with no finger travel.
+Layers multiply key count. A 40% keyboard with 4 layers already gives you 160%, with no finger travel.
 
 ![image](https://github.com/johans-work/berserk/assets/108384802/7c697354-d504-4b42-a7bf-f9dd31bbbaef)
 ![image](https://github.com/johans-work/berserk/assets/108384802/86fe64f5-8e4a-407f-a566-f8c986bc50f6)
