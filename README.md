@@ -27,7 +27,7 @@ Berserk isn't so much original as it is inevitable for anyone with similar requi
 
 ## 1: eliminate all mod, num, and fn keys
 
-Mods are merged into the far left, and layers are triggered with the thumb and pinky.
+Mods are merged into the far left, and layers are triggered with the right thumb and left pinky.
 
 ![image](https://github.com/johans-work/berserk/assets/108384802/a668aacc-a49a-4440-bbb3-f735956d37f9)
 
