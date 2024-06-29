@@ -63,9 +63,9 @@ The fn layer simply follows the num positions. Ample room for more custom keys.
 - [ ] The number symbols remain paired at the same position on the symbol layer.
 - [ ] - _ = + are added to T B G R on the left of layer 2. Equal is in the middle, with underscore below it, and minus above it, with plus next to minus at the 9 position.
 - [ ] ; is replace with ' that has higher usage on layer0.
-- [ ] ; and : are placed above , and . at K L on the left of layer 2.
-- [ ] ` is place at ' and ~ above it at P on the left of layer 2.  
-- [ ] () are added at H J, {} at Y U, and [] at I O on the left of layer 2. 
+- [ ] ; and : are placed above , and . at K L on the right of layer 2.
+- [ ] ` is place at ' and ~ above it at P on the right of layer 2.  
+- [ ] () are added at H J, {} at Y U, and [] at I O on the right of layer 2. 
 - [ ] | and \ are added to N and M on the left of layer 2. With Alice layouts, / is added to the spair key to the left of N.
 - [ ] < > ? remain at their positions on layer 2.
 
