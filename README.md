@@ -3,7 +3,7 @@
 # Intro
 Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can obstruct your real work. 
 
-Berserk is a univeral ergonomic keyboard layout for programmable keyboards, that also offers a sensible default for split and 40%. Get a running start with berserk, or grab whatever works for you. 
+Berserk is a univeral ergonomic keyboard layout for programmable keyboards, that also offers a sensible default for split and 40%. Get a running start with berserk, or grab the parts that for you. 
 
 
 ![image](https://pbs.twimg.com/media/GRINuIqbYAEL3nf?format=jpg&name=4096x4096)
@@ -25,6 +25,12 @@ berserk features:
 - [ ] room for big spacebars for sound
 - [ ] ample free keys
 
+berserk opinions:
+- [ ] categories should be dedicated to one hand
+- [ ] mice are great
+- [ ] tiny keyboards are great
+
+      
 Berserk isn't so much original as it is inevitable for anyone with similar requirements.  I've also written a [custom keyboard guide](https://github.com/johans-work/custom-keyboard-guide). 
 
 ## 1: eliminate all mod, num, and fn keys
