@@ -37,7 +37,8 @@ Berserk isn't so much original as it is inevitable for anyone with similar requi
 
 Mods are merged into the far left, and layers are triggered with the right thumb and left pinky.
 
-base layer / layer0
+base layer / layer0 = alphas + mod keys + special keys
+
 ![image](https://github.com/johans-work/berserk/assets/108384802/a668aacc-a49a-4440-bbb3-f735956d37f9)
 
 - [ ] We adopt the hhkb ctrl position at caps lock, and swap caps lock with tab on tap, ctrl on hold.
