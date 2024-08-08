@@ -2,9 +2,9 @@
 
 # Berserk Layout
 
-A universal ergonomic keyboard layout for programmable keyboards that offers a sensible default for anything from split and 40% and up. Get a running start or just take whatever works for you. 
+A universal ergonomic keyboard layout for programmable keyboards that offers a sensible default for anything from split 40% and up. 
 
-Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can obstruct your real work. 
+Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can obstruct your real work. Get a running start or just take whatever works for you. 
 
 
 ![image](https://pbs.twimg.com/media/GRINuIqbYAEL3nf?format=jpg&name=4096x4096)
