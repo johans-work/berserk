@@ -1,8 +1,8 @@
 (draft)
 
-# Intro
+# Berserk
 
-Berserk is a universal ergonomic keyboard layout for programmable keyboards that offers a sensible default for anything from split and 40% and up. Get a running start with berserk, or take from it what works for you. 
+A universal ergonomic keyboard layout for programmable keyboards that offers a sensible default for anything from split and 40% and up. Get a running start or just take whatever works for you. 
 
 Most programmable keyboards don't come with layout instructions, and though solving puzzles are fun, this can obstruct your real work. 
 
