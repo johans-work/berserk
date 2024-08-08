@@ -42,7 +42,7 @@ base layer / layer0 = Alphas + mods + special keys.
 
 ![image](https://github.com/johans-work/berserk/assets/108384802/a668aacc-a49a-4440-bbb3-f735956d37f9)
 
-- [ ] We adopt the hhkb ctrl position at caps lock, and swap caps lock with tab on tap, ctrl on hold.
+- [ ] We adopt the hhkb ctrl by swapping caps lock with tab on tap, ctrl on hold.
 - [ ] If you only have one space bar, swap it with space on tap, shift on hold.
 - [ ] If you have two space bars, swap left space with enter on tap, shift on hold, and right spacebar with space on tap, layer1 on hold.
 - [ ] With the shift key free, swap left shift with esc on tap, alt on hold.
