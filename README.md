@@ -1,6 +1,6 @@
 (draft)
 
-# Berserk
+# Berserk Layout
 
 A universal ergonomic keyboard layout for programmable keyboards that offers a sensible default for anything from split and 40% and up. Get a running start or just take whatever works for you. 
 
